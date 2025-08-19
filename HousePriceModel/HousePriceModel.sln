@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HousePriceModel", "HousePriceModel\HousePriceModel.csproj", "{9660F3EF-A447-45CA-9EC8-C8CE4731B476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HousePriceModelAPI", "HousePriceModelAPI\HousePriceModelAPI.csproj", "{12E463B0-527F-49E8-99AD-3CA30C2BA17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9660F3EF-A447-45CA-9EC8-C8CE4731B476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9660F3EF-A447-45CA-9EC8-C8CE4731B476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9660F3EF-A447-45CA-9EC8-C8CE4731B476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9660F3EF-A447-45CA-9EC8-C8CE4731B476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E463B0-527F-49E8-99AD-3CA30C2BA17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E463B0-527F-49E8-99AD-3CA30C2BA17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E463B0-527F-49E8-99AD-3CA30C2BA17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E463B0-527F-49E8-99AD-3CA30C2BA17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D825299-9C2E-43FA-B180-9224E2BC12C8}
+	EndGlobalSection
+EndGlobal
