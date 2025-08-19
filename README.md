@@ -1,4 +1,4 @@
-# House-Price-Predictor-using-ML.NET-and-ASP.NET-Core-Web-API
+
 # 🏠 House Price Prediction API (ML.NET + ASP.NET Core)
 
 This project demonstrates how to use **ML.NET** to build a machine learning model that predicts house prices based on input features like `size`, `bedrooms`, and `bathrooms`. The trained model is then integrated into an **ASP.NET Core Web API** to serve predictions.
