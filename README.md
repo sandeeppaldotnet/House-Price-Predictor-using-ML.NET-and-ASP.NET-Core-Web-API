@@ -103,10 +103,8 @@ Copy code
 GET /api/houseprice/test
 🖼️ Screenshots
 
-## 🖼️ Demo Screenshot
-### 🧠 Model Training in Console App
-![Home Price Prediction Screenshot](homepricepridiction.png)
-
+### 🧠 Home Price Prediction  App
+![Training in Console App](homepricepridiction.png)
 
 ✅ Web API Response
 
