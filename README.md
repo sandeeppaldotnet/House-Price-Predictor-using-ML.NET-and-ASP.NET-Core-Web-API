@@ -102,6 +102,15 @@ bash
 Copy code
 GET /api/houseprice/test
 🖼️ Screenshots
+
+## 🖼️ Demo Screenshot
+
+Here’s a sample prediction response from the running Web API:
+
+![Home Price Prediction Screenshot](HomePricePridiction.png)
+
+
+
 ✅ Console Training Output
 
 ✅ Web API Response
@@ -112,11 +121,7 @@ Model file not found	Make sure HousePriceModel.zip is copied to /HousePriceModel
 PredictedPrice = 0	Ensure your API's HouseData class has no Price property. It should match the model input schema
 Could not find label column 'Label'	Add [ColumnName("Label")] to Price in training model
 Console works but API doesn't	You're likely using mismatched classes or an outdated .zip in API
-## 🖼️ Demo Screenshot
 
-Here’s a sample prediction response from the running Web API:
-
-![Home Price Prediction Screenshot](HomePricePridiction.png)
 🙌 Credits
 Built with:
 
