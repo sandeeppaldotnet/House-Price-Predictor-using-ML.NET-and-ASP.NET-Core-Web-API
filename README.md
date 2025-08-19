@@ -104,14 +104,9 @@ GET /api/houseprice/test
 🖼️ Screenshots
 
 ## 🖼️ Demo Screenshot
-
-Here’s a sample prediction response from the running Web API:
-
+### 🧠 Model Training in Console App
 ![Home Price Prediction Screenshot](HomePricePridiction.png)
 
-
-
-✅ Console Training Output
 
 ✅ Web API Response
 
